@@ -1,9 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=amitshahworks&label=Profile%20Views&color=blue&style=flat)
-
-![GitHub followers](https://img.shields.io/github/followers/amitshahworks?label=Followers&style=social)
-
-![GitHub Stars](https://img.shields.io/github/stars/amitshahworks?style=social)
-
 <h1 align="center">Hi 👋, I'm Amit Shah</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Computer Engineering Student</h3>
 
