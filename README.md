@@ -139,3 +139,189 @@ I'm interested in opportunities involving:
 - 🧩 LeetCode: **leetcode.com/amitshahcodes**
 
 ---
+
+# 🛠️ Technical Skills & Engineering Stack
+
+I work across the full software development lifecycle — from designing user interfaces and building backend services to managing databases, APIs, authentication systems, and deployment workflows.
+
+---
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+# 🌐 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+**Frontend Practices**
+
+- Component-based architecture
+- Responsive UI development
+- State management concepts
+- API integration
+- Reusable component design
+- Performance optimization
+
+---
+
+# ⚙️ Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+
+**Backend Practices**
+
+- RESTful API development
+- Server-side application design
+- Middleware architecture
+- Request validation
+- Error handling
+- Authentication workflows
+- Secure API development
+
+---
+
+# 🗄️ Database & Data Management
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+
+**Database Knowledge**
+
+- Relational database design
+- Schema modeling
+- Query optimization basics
+- ORM-based development
+- Data validation
+- Database security practices
+
+---
+
+# 🔐 Authentication & Security
+
+<p>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RBAC-4B5563?style=for-the-badge"/>
+</p>
+
+
+**Security Concepts**
+
+- JWT authentication
+- Refresh token workflows
+- Role-Based Access Control
+- Authorization middleware
+- Password hashing
+- Protected routes
+- Secure API practices
+- Input validation
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+
+**Cloud & Deployment Knowledge**
+
+- Cloud fundamentals
+- Application deployment concepts
+- Containerization basics
+- Environment configuration
+- CI/CD concepts
+
+---
+
+# 🧰 Developer Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+
+**Development Workflow**
+
+- Git branching workflow
+- Version control
+- API testing
+- Debugging
+- Environment management
+- Documentation practices
+
+---
+
+# 🤖 AI & Emerging Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+
+**AI Interests**
+
+- Generative AI applications
+- AI-powered software products
+- AI API integration
+- MLOps fundamentals
+
+---
+
+# 📚 Computer Science Foundations
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Development Life Cycle
+- Agile Development Practices
+
+---
+
+# 🧠 Core Engineering Skills
+
+| Area | Skills |
+|---|---|
+| Problem Solving | Data Structures, Algorithms, Debugging |
+| Backend Engineering | REST APIs, Authentication, Authorization |
+| Database Design | Schema Design, ORM, SQL |
+| Architecture | Modular Design, Clean Architecture Basics |
+| Frontend Engineering | Responsive UI, Component Design |
+| Security | JWT, RBAC, Secure API Practices |
+| Collaboration | Git Workflow, Documentation, Team Communication |
+| Development Process | Agile, Testing, Code Quality |
+
+---
