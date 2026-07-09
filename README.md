@@ -484,7 +484,7 @@ Leading the architecture and development of **Nexora**, an AI-powered Admission 
 
 ## AWS
 
-![](https://github.com/amitshahworks/amitshahworks/commit/fd22f08049b0087f7137b0e336214f65108f0cce#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5L487)
+![](https://img.shields.io/badge/AWS-Cloud-F90?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
