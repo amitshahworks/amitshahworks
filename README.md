@@ -136,7 +136,7 @@ I'm interested in opportunities involving:
 - 💼 LinkedIn: **[amitshahstack](https://www.linkedin.com/in/amitshahstack/)**
 - 💻 GitHub: **[amitshahworks](https://github.com/amitshahworks)**
 - 🌐 Portfolio: *Coming Soon*
-- 🧩 LeetCode: **leetcode.com/amitshahcodes**
+- 🧩 LeetCode: **[amitshahcodes](https://leetcode.com/u/amitshahcodes/)**
 
 ---
 
