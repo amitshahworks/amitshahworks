@@ -599,15 +599,15 @@ Leading the architecture and development of **Nexora**, an AI-powered Admission 
 
 ---
 
+---
+
 # Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amitshahworks/amitshahworks/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/amitshahworks/amitshahworks/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
-
-> **Note:** To make the snake animation work, create a GitHub Action in your profile repository that generates the `output/github-contribution-grid-snake-dark.svg` file.
 
 ---
 
