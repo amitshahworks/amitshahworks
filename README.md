@@ -464,34 +464,44 @@ Leading the architecture and development of **Nexora**, an AI-powered Admission 
 
 ---
 
+---
+
 # Professional Certifications
 
 <div align="center">
 
 ### Verified Digital Credentials
 
-| Provider | Credential | Verification |
-| :--- | :--- | :---: |
-| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | Introduction to Cloud | <a href="https://www.credly.com/badges/68006b8d-edfa-4caa-9902-8c5f14b8709a/public_url">View Credential ↗</a> |
-| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | Cloud Foundation| <a href="https://www.credly.com/badges/1234d415-6b0f-48dd-bdea-63ac97ca1f16/public_url">View Credential ↗</a> |
-| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | Cloud Architecture | <a href="https://www.credly.com/badges/ca9efc8b-e66f-4853-b40f-9dff2eb3954f/public_url">View Credential ↗</a> |
-| <img src="https://img.shields.io/badge/IBM-SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | Data Fundamentals | <a href="https://www.credly.com/badges/cab75190-4b77-40ae-be53-36c59f72e2e5/public_url">View Credential ↗</a> |
-| <img src="https://img.shields.io/badge/IBM-SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | Cybersecurity Fundamentals  | <a href="https://www.credly.com/badges/e63742ab-a99a-4410-a611-f6cff962ba3e/public_url">View Credential ↗</a> |
-| <img src="https://img.shields.io/badge/IBM-Digital%20Credential-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | Big Data Foundation | <a href="https://www.credly.com/badges/81237be5-ec04-487f-bd6c-35c7b35dbd95/public_url">View Credential ↗</a> |
-<img src="https://img.shields.io/badge/IBM-Digital%20Credential-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | Data Analysis using python| <a href="https://www.credly.com/badges/22c606dd-086f-49d7-af7b-6f691519d0a4/public_url">view Credential ↗</a> |
+| Provider | Certification | Issued | Credential |
+| :--- | :--- | :---: | :---: |
+| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | **AWS Academy Graduate – Introduction to Cloud Semester 1** | Oct 2024 | <a href="https://www.credly.com/badges/68006b8d-edfa-4caa-9902-8c5f14b8709a/public_url">View ↗</a> |
+| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | **AWS Academy Graduate – Cloud Foundations** | Sep 2025 | <a href="https://www.credly.com/badges/1234d415-6b0f-48dd-bdea-63ac97ca1f16/public_url">View ↗</a> |
+| <img src="https://img.shields.io/badge/AWS%20Academy-Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | **AWS Academy Graduate – Cloud Architecting** | Apr 2026 | <a href="https://www.credly.com/badges/ca9efc8b-e66f-4853-b40f-9dff2eb3954f/public_url">View ↗</a> |
+| <img src="https://img.shields.io/badge/IBM-Data%20Analysis-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | **Data Analysis Using Python** | Jul 2025 | <a href="https://www.credly.com/badges/22c606dd-086f-49d7-af7b-6f691519d0a4/public_url">View ↗</a> |
+| <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Data-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | **Data Fundamentals** | Jul 2025 | <a href="https://www.credly.com/badges/cab75190-4b77-40ae-be53-36c59f72e2e5/public_url">View ↗</a> |
+| <img src="https://img.shields.io/badge/IBM-Big%20Data-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | **Big Data Foundations – Level 1** | Jul 2025 | <a href="https://www.credly.com/badges/81237be5-ec04-487f-bd6c-35c7b35dbd95/public_url">View ↗</a> |
+| <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Cybersecurity-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | **Cybersecurity Fundamentals** | Sep 2025 | <a href="https://www.credly.com/badges/e63742ab-a99a-4410-a611-f6cff962ba3e/public_url">View ↗</a> |
 
 </div>
 
 ---
 
-### Certification Summary
+<div align="center">
 
-```text
-✓ AWS Academy Digital Credentials
-✓ IBM SkillsBuild Digital Credentials
-✓ IBM Verified Digital Credential
-✓ All certifications are publicly verifiable through Credly.
-```
+### Certification Highlights
+
+| Category | Achievement |
+| :--- | :--- |
+| ☁️ Cloud Computing | AWS Academy Graduate Certifications |
+| 📊 Data Analytics | IBM Data Analysis Using Python |
+| 🗄️ Big Data | IBM Big Data Foundations – Level 1 |
+| 📈 Data Foundations | IBM SkillsBuild Data Fundamentals |
+| 🔐 Cybersecurity | IBM SkillsBuild Cybersecurity Fundamentals |
+| ✅ Verification | All credentials are publicly verifiable through Credly |
+
+</div>
+
+---
 
 > **Note:** All credentials listed above are verified digital badges issued through Credly and can be validated online by recruiters and employers. Digital credentials provide secure, tamper-resistant verification of achievements.  [oai_citation:0‡Credly](https://support.credly.com/hc/en-us/articles/360021222071-What-is-a-badge?utm_source=chatgpt.com)
 
