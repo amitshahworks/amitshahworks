@@ -325,3 +325,520 @@ I work across the full software development lifecycle — from designing user in
 | Development Process | Agile, Testing, Code Quality |
 
 ---
+
+# 🚀 Featured Projects
+
+Projects that demonstrate my approach to solving real-world problems through scalable architecture, clean code, secure backend systems, and modern development practices.
+
+---
+
+# 🏢 NEXORA — Multi-Tenant AI CRM & Voice Automation Platform
+
+<p>
+<img src="https://img.shields.io/badge/Status-Active%20Development-success?style=flat"/>
+<img src="https://img.shields.io/badge/Type-SaaS%20Platform-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Role-Solo%20Developer-orange?style=flat"/>
+</p>
+
+
+## Overview
+
+NEXORA is an enterprise-oriented **AI-powered multi-tenant CRM platform** designed for educational institutions to manage admissions, automate communication workflows, and improve counselor productivity.
+
+The platform focuses on building a scalable SaaS foundation with organization isolation, role-based access control, secure APIs, and AI-ready automation capabilities.
+
+---
+
+## Problem Statement
+
+Educational institutions often manage admissions through disconnected tools, spreadsheets, and manual follow-up processes.
+
+This creates challenges such as:
+
+- Difficult lead tracking
+- Inefficient counselor workflows
+- Lack of centralized communication
+- Limited analytics visibility
+- Data security concerns between organizations
+
+---
+
+## Solution
+
+NEXORA provides a centralized admission management platform where institutions can manage leads, users, follow-ups, documents, and analytics through a secure multi-tenant architecture.
+
+The system is designed with SaaS principles:
+
+- Organization-level data isolation
+- Role-based permissions
+- Modular backend architecture
+- Secure API communication
+- Future AI automation support
+
+---
+
+## Architecture
+
+**Architecture Pattern**
+
+```
+Frontend
+   |
+   |
+REST API Layer
+   |
+   |
+Backend Services
+   |
+   |
+PostgreSQL Database
+```
+
+**Backend Architecture**
+
+- Modular Monolith
+- Service Layer Pattern
+- Repository Pattern using Prisma
+- Middleware-based security
+- Background job scheduling
+
+
+---
+
+## Key Features
+
+### Multi-Tenant SaaS Architecture
+
+- Organization management
+- Tenant data isolation
+- Independent organization workflows
+
+
+### Authentication & Authorization
+
+- JWT authentication
+- Refresh token mechanism
+- Role-Based Access Control
+
+Supported roles:
+
+- SUPER_ADMIN
+- ADMIN
+- COUNSELOR
+- VIEWER
+
+
+### CRM Modules
+
+- Lead management
+- Follow-up tracking
+- Task management
+- Notes management
+- Document management
+- Dashboard analytics
+
+
+### Automation
+
+- Scheduled notifications
+- Background jobs
+- AI-ready architecture for:
+  - Voice calling automation
+  - WhatsApp communication automation
+
+
+---
+
+## Security Implementation
+
+Security was considered as a core design requirement.
+
+Implemented:
+
+- JWT-based authentication
+- Refresh token security
+- Password hashing with bcrypt
+- RBAC authorization
+- Protected API routes
+- Tenant isolation
+- Input validation using Zod
+- Secure file upload handling
+- Centralized error handling
+- Authorization middleware
+- IDOR prevention practices
+
+
+---
+
+## Technology Stack
+
+### Frontend
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+
+### Database
+
+- PostgreSQL
+- Prisma ORM
+
+
+### Additional Technologies
+
+- JWT
+- bcrypt
+- Zod
+- Multer
+- Cron Jobs
+
+
+---
+
+## Scalability Considerations
+
+Designed with future growth in mind:
+
+- Multi-organization support
+- Modular service structure
+- Database scalability
+- Background task processing
+- AI service integration capability
+
+
+---
+
+## Current Status
+
+🚧 Active Development
+
+Completed:
+
+✅ Authentication system  
+✅ RBAC implementation  
+✅ Organization management  
+✅ User management  
+✅ Lead management  
+✅ Follow-up system  
+✅ Dashboard foundation  
+✅ Notification scheduler  
+
+
+In Progress:
+
+- AI voice automation
+- WhatsApp automation
+- Advanced analytics
+
+
+---
+
+## My Role
+
+**Full Stack Developer — Solo Project**
+
+Responsibilities:
+
+- Designed complete system architecture
+- Developed frontend application
+- Built backend REST APIs
+- Designed database schema
+- Implemented authentication and authorization
+- Developed secure multi-tenant architecture
+- Managed development workflow and documentation
+
+
+---
+
+## Repository
+
+Private Repository  
+(Will be added when publicly available)
+
+
+## Live Demo
+
+Coming Soon
+
+
+---
+
+<br>
+
+# 🤖 AI Interview Trainer
+
+<p>
+<img src="https://img.shields.io/badge/Status-In%20Development-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Type-AI%20Application-purple?style=flat"/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-orange?style=flat"/>
+</p>
+
+
+## Overview
+
+AI Interview Trainer is an AI-powered full-stack platform designed to help candidates prepare for technical and HR interviews through realistic mock interview sessions.
+
+The platform generates interview questions, evaluates responses, provides personalized feedback, and tracks improvement over time.
+
+---
+
+## Problem Statement
+
+Many candidates practice interviews without receiving meaningful feedback about:
+
+- Technical accuracy
+- Communication quality
+- Answer structure
+- Interview readiness
+
+
+---
+
+## Solution
+
+The application creates an interactive interview environment where users can:
+
+- Practice realistic interviews
+- Receive AI-based evaluation
+- Understand improvement areas
+- Track previous performance
+
+
+---
+
+## Architecture
+
+```
+React Client
+
+      |
+
+REST API
+
+      |
+
+Express Backend
+
+      |
+
+MongoDB Database
+
+      |
+
+AI Service Integration
+```
+
+---
+
+## Key Features
+
+- User registration and login
+- JWT authentication
+- Protected routes
+- Personalized dashboard
+- Technical interview practice
+- HR interview preparation
+- AI-generated questions
+- AI answer evaluation
+- Performance scoring
+- Interview history tracking
+- Profile management
+- Responsive UI
+
+
+---
+
+## Security
+
+Implemented:
+
+- JWT authentication
+- Password hashing using bcrypt
+- Protected API routes
+- Environment variable protection
+- Input validation
+- Secure database connection
+- CORS configuration
+
+
+---
+
+## Technology Stack
+
+Frontend:
+
+- React.js
+- Vite
+- Tailwind CSS
+- React Router
+- Axios
+
+
+Backend:
+
+- Node.js
+- Express.js
+
+
+Database:
+
+- MongoDB
+- Mongoose
+
+
+AI:
+
+- OpenAI API / Gemini API
+
+
+Deployment:
+
+- Vercel
+- Render
+- MongoDB Atlas
+
+
+---
+
+## My Role
+
+**Full Stack Developer**
+
+Responsibilities:
+
+- Designed application architecture
+- Developed React frontend
+- Built backend REST APIs
+- Created database models
+- Implemented authentication
+- Integrated AI capabilities
+- Managed deployment workflow
+
+
+---
+
+## Repository
+
+https://github.com/amitshahworks/AI-Interview-Trainer
+
+
+## Live Demo
+
+Coming Soon
+
+
+---
+
+<br>
+
+# 🌐 Personal Portfolio Website
+
+<p>
+<img src="https://img.shields.io/badge/Status-Coming%20Soon-lightgrey?style=flat"/>
+</p>
+
+
+## Overview
+
+A personal developer portfolio website showcasing my projects, technical skills, certifications, and software engineering journey.
+
+---
+
+## Planned Features
+
+- Professional introduction
+- Project showcase
+- Technical skills
+- Resume section
+- Certifications
+- Contact form
+- Responsive design
+
+
+---
+
+## Planned Technology Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- Modern frontend architecture
+
+
+---
+
+## Status
+
+Under Development
+
+
+---
+
+# 📌 Future Project Template
+
+Use this structure for adding new projects:
+
+## Project Name
+
+### Overview
+
+Short professional description.
+
+### Problem
+
+Real-world problem addressed.
+
+### Solution
+
+How the application solves it.
+
+### Architecture
+
+System design and technical approach.
+
+### Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+### Technology Stack
+
+Frontend:
+
+Backend:
+
+Database:
+
+Deployment:
+
+### Security
+
+Security practices implemented.
+
+### My Role
+
+Responsibilities.
+
+### Status
+
+Completed / Active Development
+
+### Repository
+
+GitHub Link
+
+### Demo
+
+Live URL
+
+---
