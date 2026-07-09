@@ -986,3 +986,97 @@ Currently focused on becoming a stronger Full Stack Software Engineer by improvi
 - Continue learning modern technologies and best practices.
 
 ---
+
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img 
+src="https://github-readme-stats.vercel.app/api?username=amitshahworks&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
+height="170"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshahworks&layout=compact&theme=github_dark&hide_border=true" 
+height="170"
+/>
+
+</div>
+
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img 
+src="https://streak-stats.demolab.com?user=amitshahworks&theme=github-dark&hide_border=true"
+/>
+
+</div>
+
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=amitshahworks&theme=github-compact&hide_border=true"
+/>
+
+</div>
+
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing software engineering, full-stack development, SaaS products, and opportunities to build impactful technology.
+
+<div align="center">
+
+<a href="mailto:shahamitsuresh@gmail.com">
+<img src="https://img.shields.io/badge/Email-shahamitsuresh%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/amitshahworks">
+<img src="https://img.shields.io/badge/GitHub-amitshahworks-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/amitshahstack">
+<img src="https://img.shields.io/badge/LinkedIn-amitshahstack-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/amitshahcodes">
+<img src="https://img.shields.io/badge/LeetCode-amitshahcodes-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
+
+
+---
+
+# 📌 Open To
+
+- Full Stack Developer Internships
+- Software Engineer Internships
+- Backend Development Opportunities
+- SaaS Product Development
+- Remote and On-site Opportunities
+
+
+---
+
+<div align="center">
+
+## Building. Learning. Improving.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=120&section=footer"/>
+
+</div>
