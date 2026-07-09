@@ -39,11 +39,7 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=amitshahworks&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/amitshahworks?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/amitshahworks?affiliations=OWNER&style=for-the-badge&color=7C3AED)
 
 </div>
 
