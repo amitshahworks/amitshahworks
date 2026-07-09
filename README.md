@@ -484,7 +484,7 @@ Leading the architecture and development of **Nexora**, an AI-powered Admission 
 
 ## AWS
 
-![](https://img.shields.io/badge/AWS-Cloud-F90?style=for-the-badge&logo=amazonaws&logoColor=white)
+![]([https://img.shields.io/badge/AWS-Cloud-F90?style=for-the-badge&logo=amazonaws&logoColor=white](https://www.credly.com/badges/68006b8d-edfa-4caa-9902-8c5f14b8709a/public_url))
 
 ---
 
