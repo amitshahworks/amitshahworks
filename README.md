@@ -4,10 +4,6 @@
 <!-- ========================================================= -->
 
 <!-- Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="Amit Shah Banner" width="100%" />
-</p>
-
 <h1 align="center">Amit Shah</h1>
 
 <p align="center">
