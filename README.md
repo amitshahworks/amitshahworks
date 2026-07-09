@@ -133,8 +133,8 @@ I'm interested in opportunities involving:
 ## 📫 Connect
 
 - 📧 Email: **shahamitsuresh@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/amitshahstack**
-- 💻 GitHub: **github.com/amitshahworks**
+- 💼 LinkedIn: **[amitshahstack](https://www.linkedin.com/in/amitshahstack/)**
+- 💻 GitHub: **[amitshahworks](https://github.com/amitshahworks)**
 - 🌐 Portfolio: *Coming Soon*
 - 🧩 LeetCode: **leetcode.com/amitshahcodes**
 
