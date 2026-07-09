@@ -916,10 +916,10 @@ Verified digital credentials from recognized technology organizations.
 
 ## 🌐 Google Cloud Skill Badges
 
-| Badge | Credential |
+| Badge | Issued | Credential |
 |---|---|
-| Introduction to Generative AI | [View Badge](https://www.skills.google/public_profiles/fdbea54f-ab53-4993-9a1a-c60cf1f0c819/badges/7877826) |
-| Machine Learning Operations (MLOps) for Generative AI | [View Badge](https://www.skills.google/public_profiles/fdbea54f-ab53-4993-9a1a-c60cf1f0c819/badges/20777805) |
+| Introduction to Generative AI | Jan 2024 | [View Badge](https://www.skills.google/public_profiles/fdbea54f-ab53-4993-9a1a-c60cf1f0c819/badges/7877826) |
+| Machine Learning Operations (MLOps) for Generative AI | DEC 2025 | [View Badge](https://www.skills.google/public_profiles/fdbea54f-ab53-4993-9a1a-c60cf1f0c819/badges/20777805) |
 
 ---
 
