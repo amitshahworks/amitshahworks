@@ -993,12 +993,12 @@ Currently focused on becoming a stronger Full Stack Software Engineer by improvi
 <div align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=amitshahworks&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=amitshahworks&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
 height="170"
 />
 
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshahworks&layout=compact&theme=github_dark&hide_border=true" 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amitshahworks&layout=compact&theme=github_dark&hide_border=true"
 height="170"
 />
 
