@@ -462,37 +462,37 @@ Leading the architecture and development of **Nexora**, an AI-powered Admission 
 
 ---
 
-# Certifications
+---
 
-## IBM
+# Professional Certifications
 
-![](https://img.shields.io/badge/IBM-SkillsBuild%20Data%20Analytics-7C3AED?style=for-the-badge&logo=ibm&logoColor=white)
+<div align="center">
+
+### Verified Digital Credentials
+
+| Provider | Credential | Verification |
+| :--- | :--- | :---: |
+| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | AWS Academy Badge #1 | <a href="https://www.credly.com/badges/68006b8d-edfa-4caa-9902-8c5f14b8709a/public_url">View Credential ↗</a> |
+| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | AWS Academy Badge #2 | <a href="https://www.credly.com/badges/1234d415-6b0f-48dd-bdea-63ac97ca1f16/public_url">View Credential ↗</a> |
+| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | AWS Academy Badge #3 | <a href="https://www.credly.com/badges/ca9efc8b-e66f-4853-b40f-9dff2eb3954f/public_url">View Credential ↗</a> |
+| <img src="https://img.shields.io/badge/IBM-SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | IBM SkillsBuild Badge #1 | <a href="https://www.credly.com/badges/cab75190-4b77-40ae-be53-36c59f72e2e5/public_url">View Credential ↗</a> |
+| <img src="https://img.shields.io/badge/IBM-SkillsBuild-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | IBM SkillsBuild Badge #2 | <a href="https://www.credly.com/badges/e63742ab-a99a-4410-a611-f6cff962ba3e/public_url">View Credential ↗</a> |
+| <img src="https://img.shields.io/badge/IBM-Digital%20Credential-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | IBM Digital Badge | <a href="https://www.credly.com/badges/81237be5-ec04-487f-bd6c-35c7b35dbd95/public_url">View Credential ↗</a> |
+
+</div>
 
 ---
 
-## Cisco
+### Certification Summary
 
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+```text
+✓ AWS Academy Digital Credentials
+✓ IBM SkillsBuild Digital Credentials
+✓ IBM Verified Digital Credential
+✓ All certifications are publicly verifiable through Credly.
+```
 
----
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud-F90?style=for-the-badge&logo=amazonaws&logoColor=white)(https://www.credly.com/badges/68006b8d-edfa-4caa-9902-8c5f14b8709a/public_ur)
-
----
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Certified-5B21B6?style=for-the-badge)
-
----
+> **Note:** All credentials listed above are verified digital badges issued through Credly and can be validated online by recruiters and employers. Digital credentials provide secure, tamper-resistant verification of achievements.  [oai_citation:0‡Credly](https://support.credly.com/hc/en-us/articles/360021222071-What-is-a-badge?utm_source=chatgpt.com)
 
 # Coding Profiles
 
