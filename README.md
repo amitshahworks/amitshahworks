@@ -1,698 +1,141 @@
 <!-- ========================================================= -->
-<!--                     GITHUB PROFILE README                  -->
-<!--                         PART 1                            -->
+<!--                    GITHUB PROFILE README                  -->
+<!--                Designed for Amit Shah                     -->
 <!-- ========================================================= -->
 
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Amit Shah Banner" width="100%" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Amit%20Shah&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20•%20AI%20Developer%20•%20Product%20Builder&descAlignY=58"/>
+<h1 align="center">Amit Shah</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;Building+Scalable+SaaS+Applications;AI+Powered+Product+Engineering;React+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Always+Learning.+Always+Building." />
+<p align="center">
+  <strong>Full Stack Software Engineer</strong>
+</p>
 
-<br/>
+<p align="center">
+Building scalable web applications with modern technologies.
+</p>
 
-![](https://img.shields.io/badge/2027-Graduate-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/IBM-SkillsBuild-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/AI-Full%20Stack-5B21B6?style=for-the-badge)
-![](https://img.shields.io/badge/Product-Engineering-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20Source-Contributor-6366F1?style=for-the-badge)
+<p align="center">
 
-<br/>
+  <a href="https://github.com/amitshahworks">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
 
-![](https://img.shields.io/badge/Location-Ahmedabad,%20India-7C3AED?style=flat-square)
+  <a href="https://linkedin.com/in/amitshahstack">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/amitshahworks">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="mailto:shahamitsuresh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge"/>
-</a>
-
-<br/>
-
-
-
-</div>
-
----
-
-# About Me
-
-I'm a **Full Stack Software Engineer** passionate about designing scalable software systems, enterprise-grade web applications, and AI-powered products.
-
-My primary focus is building production-ready SaaS platforms that emphasize security, maintainability, clean architecture, and exceptional user experience.
-
-I enjoy transforming complex business requirements into robust software solutions using modern engineering practices.
-
-Currently, I'm building **Nexora**, an AI-powered Admission CRM and Voice Automation Platform designed with a scalable multi-tenant architecture.
-
-My engineering interests include:
-
-- Enterprise Software Engineering
-- Full Stack Development
-- AI Powered Applications
-- Backend Architecture
-- REST API Design
-- Authentication & Authorization
-- Product Engineering
-- Database Design
-- Cloud Deployment
-- Performance Optimization
-
----
-
-# Open To
-
-✔ Software Engineering Internship
-
-✔ Full Stack Development
-
-✔ Backend Engineering
-
-✔ AI Product Development
-
-✔ Open Source Collaboration
-
-✔ Product-Based Companies
-
-✔ Enterprise SaaS Development
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python,html,css"/>
+  <img src="https://komarev.com/ghpvc/?username=amitshahworks&style=flat&color=blue" />
 
 </p>
 
 ---
 
-## Frontend
+## 👋 About Me
 
-<p>
+I'm a final-year **B.Tech Computer Science Engineering** student at **Silver Oak College of Engineering and Technology**, Ahmedabad, with a strong interest in building scalable, secure, and maintainable software.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux"/>
+My primary focus is **Full Stack Development**, where I enjoy designing responsive user interfaces, developing robust backend services, and building well-structured database architectures.
 
-</p>
+I believe software engineering is more than writing code—it's about solving real-world problems through thoughtful design, clean architecture, security, and continuous improvement.
 
----
-
-## Backend & Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mysql,mongodb"/>
-
-</p>
+I'm currently looking for **Full Stack Software Engineer Internship** and **Software Engineer** opportunities where I can contribute to meaningful products while learning from experienced engineering teams.
 
 ---
 
-## Cloud • DevOps • Tooling
+## 🎓 Education
 
-<p>
+| Degree | Institution | Duration |
+|---------|------------|----------|
+| **Bachelor of Technology (B.Tech)** | Silver Oak College of Engineering and Technology | Expected Graduation: **2027** |
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm,bash"/>
+**Computer Science & Engineering**
 
-</p>
+CGPA: **9.25**
 
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| Artificial Intelligence | Advanced | AI-powered SaaS product development and workflow automation |
-| Machine Learning | Intermediate | Model integration and practical ML applications |
-| Generative AI | Advanced | LLM integration, prompt engineering, AI-assisted workflows |
-| REST APIs | Advanced | Secure, scalable API development with Express.js |
-| Authentication | Advanced | JWT, Role-Based Access Control (RBAC), secure session management |
-| Database Engineering | Advanced | PostgreSQL, Prisma ORM, relational schema design |
-| Frontend Engineering | Advanced | React, TypeScript, responsive UI, state management |
-| Backend Engineering | Advanced | Node.js, Express.js, modular architecture |
-| Product Engineering | Advanced | SaaS architecture, multi-tenant applications, scalable systems |
-| Software Architecture | Intermediate | Clean architecture, modular design, maintainable codebases |
+Ahmedabad, Gujarat, India
 
 ---
 
-<div align="center">
+## 💼 Currently
 
-### Building software that solves real-world problems through clean architecture, scalable systems, and AI-driven innovation.
-
-</div>
-
-<!-- END OF PART 1 -->
-
-<!-- ========================================================= -->
-<!--                     FEATURED PROJECTS                      -->
-<!--                         PART 2                            -->
-<!-- ========================================================= -->
+- Full Stack Software Engineer Intern Aspirant
+- Building production-oriented web applications
+- Exploring scalable backend architectures
+- Strengthening JavaScript and React ecosystem
+- Learning modern backend engineering practices
+- Improving problem-solving and software design skills
 
 ---
 
-# Featured Projects
+## 🚀 Engineering Principles
 
-<details open>
-<summary><strong>🚀 Nexora — AI-Powered Admission CRM & Voice Automation Platform</strong></summary>
+I enjoy building software that is:
 
-<br>
+- Maintainable
+- Secure
+- Modular
+- Scalable
+- Well documented
 
-### Overview
-
-Nexora is an enterprise-grade, multi-tenant SaaS platform built for educational institutions to streamline admission management, counselor workflows, lead tracking, analytics, and AI-powered communication. The platform is designed with a strong emphasis on scalability, security, role-based access control, and maintainable architecture.
-
-| Category | Details |
-|----------|---------|
-| **Stack** | React • TypeScript • Tailwind CSS • Node.js • Express.js • PostgreSQL • Prisma ORM |
-| **Architecture** | Multi-Tenant SaaS • REST API • Modular Backend |
-| **Authentication** | JWT • Refresh Tokens • RBAC |
-| **Database** | PostgreSQL with Prisma ORM |
-| **Security** | Password Hashing • Protected APIs • Tenant Isolation • Input Validation |
-| **Performance** | Optimized API Design • Efficient Database Queries • Lazy Loading |
-| **Impact** | Centralized admission workflow, improved counselor productivity, scalable institutional management |
-| **Repository** | https://github.com/amitshahworks |
-
-### Key Highlights
-
-- Multi-tenant architecture supporting multiple organizations.
-- Secure JWT authentication with refresh token workflow.
-- Role-Based Access Control (SUPER_ADMIN, ADMIN, COUNSELOR, VIEWER).
-- Lead lifecycle management with assignments and follow-ups.
-- Task and activity management for counseling teams.
-- AI-powered voice automation workflows.
-- Analytics dashboard for admissions and counselor performance.
-- Clean RESTful API architecture using Express.js.
-- Prisma ORM for type-safe database access.
-- Responsive React frontend built with reusable components.
-- Production-oriented folder structure for scalability.
-
-### Engineering Focus
+When developing applications, I focus on:
 
 - Clean Architecture
-- Modular Design
-- API Security
-- Enterprise SaaS
-- Database Optimization
-- Scalable Backend Systems
-
-</details>
-
----
-
-<details>
-<summary><strong>🎯 AI Interview Trainer</strong></summary>
-
-<br>
-
-### Overview
-
-AI Interview Trainer is a full-stack web application that helps students and job seekers prepare for technical interviews through AI-assisted conversations, structured interview sessions, and personalized feedback.
-
-| Category | Details |
-|----------|---------|
-| **Stack** | React • Node.js • Express.js • MongoDB |
-| **Architecture** | Client-Server |
-| **Authentication** | JWT Authentication |
-| **Database** | MongoDB |
-| **Security** | Protected Routes • Password Encryption |
-| **Performance** | Optimized API Requests • Lightweight Frontend |
-| **Impact** | Helps candidates practice interviews and improve confidence |
-| **Repository** | https://github.com/amitshahworks/AI-Interview-Trainer |
-
-### Features
-
-- User Authentication
-- AI-assisted Interview Sessions
-- Technical Question Practice
-- Secure Backend APIs
-- Progress Tracking
-- Responsive User Interface
-- RESTful Backend Architecture
-- Modular React Components
-
-### Engineering Highlights
-
-- Component-based React architecture.
-- Secure authentication flow.
-- Backend API separation.
-- Scalable folder structure.
-- Modern JavaScript development practices.
-
-</details>
-
----
-
-<details>
-<summary><strong>📊 Data Analytics Dashboard</strong></summary>
-
-<br>
-
-### Overview
-
-A data analytics project developed during the IBM SkillsBuild learning experience, focusing on data processing, visualization, and actionable insights using structured datasets.
-
-| Category | Details |
-|----------|---------|
-| **Stack** | Python • SQL • Excel • Data Visualization |
-| **Domain** | Data Analytics |
-| **Performance** | Efficient Data Processing |
-| **Security** | Data Validation |
-| **Impact** | Improved reporting and analytical decision-making |
-| **Repository** | https://github.com/amitshahworks |
-
-### Highlights
-
-- Data cleaning and preprocessing.
-- Exploratory Data Analysis (EDA).
-- Dashboard-oriented reporting.
-- Insight generation from structured datasets.
-- Business-oriented visualization techniques.
-
-</details>
-
----
-
-<details>
-<summary><strong>🌐 Personal Developer Portfolio</strong></summary>
-
-<br>
-
-### Overview
-
-A modern portfolio website showcasing projects, technical expertise, certifications, achievements, and professional experience with a responsive and performance-focused design.
-
-| Category | Details |
-|----------|---------|
-| **Stack** | React • TypeScript • Tailwind CSS |
-| **Deployment** | Vercel |
-| **Performance** | Optimized Assets • Responsive Design |
-| **Security** | Best Practices |
-| **Impact** | Professional online engineering presence |
-| **Repository** | https://github.com/amitshahworks |
-
-### Features
-
-- Fully Responsive UI
-- Project Showcase
-- Skills Section
-- Certifications
-- Contact Integration
-- Resume Download
-- GitHub Integration
-- Modern UI Components
-
-</details>
-
----
-
-## Engineering Principles
-
-<table>
-<tr>
-<td width="50%">
-
-### Software Engineering
-
-- Clean Code
-- SOLID Principles
-- Modular Architecture
-- Maintainable Codebase
-- Reusable Components
-- Scalable Systems
-- API-first Design
-- Secure Authentication
-
-</td>
-
-<td width="50%">
-
-### Product Mindset
-
-- User-Centric Design
-- Performance Optimization
-- Business Value
-- Reliability
-- Security
-- Continuous Improvement
-- AI Integration
-- Enterprise Readiness
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### "Building scalable products with clean architecture, secure systems, and an AI-first engineering mindset."
-
-</div>
-
-<!-- END OF PART 2 -->
-
-<!-- ========================================================= -->
-<!--                     EXPERIENCE & ACHIEVEMENTS              -->
-<!--                         PART 3                            -->
-<!-- ========================================================= -->
-
----
-
-# Experience
-
-### **Data Analytics Intern**
-**IBM SkillsBuild**  
-**Aug 2025**
-
-Worked on industry-oriented data analytics learning and practical projects focused on data preparation, visualization, business insights, and analytical problem-solving.
-
-**Key Responsibilities**
-- Built analytical thinking through real-world datasets.
-- Performed data cleaning and preprocessing.
-- Generated insights using visualization techniques.
-- Learned data-driven decision-making practices.
-- Strengthened SQL and data interpretation skills.
-- Collaborated through project-based learning.
-
-**Core Skills**
-
-`Data Analytics` `SQL` `Data Visualization` `Excel` `Python` `Business Intelligence`
-
----
-
-### **Full Stack Development Intern**
-**CodeAlpha**  
-**2025**
-
-Developed full-stack web applications while gaining hands-on experience in frontend development, backend APIs, authentication, and database integration.
-
-**Key Responsibilities**
-
-- Developed responsive web interfaces.
-- Designed RESTful backend APIs.
-- Integrated authentication workflows.
-- Connected frontend with backend services.
-- Improved debugging and code quality.
-- Followed modular project architecture.
-
-**Core Skills**
-
-`React` `Node.js` `Express.js` `MongoDB` `REST API` `Git`
-
----
-
-### **Founder & Full Stack Developer**
-**Nexora (Personal SaaS Product)**  
-**Jun 2026 – Present**
-
-Leading the architecture and development of **Nexora**, an AI-powered Admission CRM & Voice Automation Platform designed for educational institutions. The platform follows enterprise software engineering principles with a scalable multi-tenant architecture.
-
-**Responsibilities**
-
-- Product Architecture
-- Backend Engineering
-- Frontend Development
-- Database Design
+- Readable code
+- RESTful API design
 - Authentication & Authorization
+- Database normalization
+- Code reusability
+- Performance optimization
+- Long-term maintainability
+
+---
+
+## 📌 Current Focus
+
+Currently working with modern JavaScript technologies and building production-style applications.
+
+### Learning
+
+- Advanced React
+- Node.js
+- Express.js
+- PostgreSQL
+- Prisma ORM
+- Backend Architecture
+- API Design
+- Authentication & Authorization
+- Software Design Patterns
+
+---
+
+## 🌱 Looking For
+
+I'm interested in opportunities involving:
+
+- Full Stack Development
+- Backend Engineering
+- SaaS Products
 - REST API Development
-- AI Workflow Integration
-- Security Implementation
-- Performance Optimization
-
-**Core Skills**
-
-`React`
-`TypeScript`
-`Node.js`
-`Express`
-`PostgreSQL`
-`Prisma ORM`
-`JWT`
-`RBAC`
-`Tailwind CSS`
+- Cloud-based Applications
+- Modern Web Technologies
+- Product Engineering
 
 ---
 
-# Achievements
+## 📫 Connect
 
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🏆 IBM SkillsBuild | Successfully completed the Data Analytics Internship and earned the official badge. |
-| 🚀 SaaS Development | Designed and developed **Nexora**, an enterprise-ready multi-tenant AI CRM platform. |
-| 💻 Full Stack Engineering | Built scalable applications using React, Node.js, Express.js, PostgreSQL, and Prisma ORM. |
-| 🔐 Secure Backend Development | Implemented JWT Authentication, Refresh Tokens, and Role-Based Access Control (RBAC). |
-| 🤖 AI Integration | Developed AI-assisted workflows for productivity and automation. |
-| 📚 Continuous Learning | Regularly solve coding challenges and explore modern software engineering practices. |
-
-</div>
+- 📧 Email: **shahamitsuresh@gmail.com**
+- 💼 LinkedIn: **linkedin.com/in/amitshahstack**
+- 💻 GitHub: **github.com/amitshahworks**
+- 🌐 Portfolio: *Coming Soon*
+- 🧩 LeetCode: **leetcode.com/amitshahcodes**
 
 ---
-
----
-
----
-
-# Professional Certifications
-
-<div align="center">
-
-### Verified Digital Credentials
-
-| Provider | Certification | Issued | Credential |
-| :--- | :--- | :---: | :---: |
-| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | **AWS Academy Graduate – Introduction to Cloud Semester 1** | Oct 2024 | <a href="https://www.credly.com/badges/68006b8d-edfa-4caa-9902-8c5f14b8709a/public_url">View ↗</a> |
-| <img src="https://img.shields.io/badge/AWS%20Academy-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | **AWS Academy Graduate – Cloud Foundations** | Sep 2025 | <a href="https://www.credly.com/badges/1234d415-6b0f-48dd-bdea-63ac97ca1f16/public_url">View ↗</a> |
-| <img src="https://img.shields.io/badge/AWS%20Academy-Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> | **AWS Academy Graduate – Cloud Architecting** | Apr 2026 | <a href="https://www.credly.com/badges/ca9efc8b-e66f-4853-b40f-9dff2eb3954f/public_url">View ↗</a> |
-| <img src="https://img.shields.io/badge/IBM-Data%20Analysis-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | **Data Analysis Using Python** | Jul 2025 | <a href="https://www.credly.com/badges/22c606dd-086f-49d7-af7b-6f691519d0a4/public_url">View ↗</a> |
-| <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Data-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | **Data Fundamentals** | Jul 2025 | <a href="https://www.credly.com/badges/cab75190-4b77-40ae-be53-36c59f72e2e5/public_url">View ↗</a> |
-| <img src="https://img.shields.io/badge/IBM-Big%20Data-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | **Big Data Foundations – Level 1** | Jul 2025 | <a href="https://www.credly.com/badges/81237be5-ec04-487f-bd6c-35c7b35dbd95/public_url">View ↗</a> |
-| <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Cybersecurity-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/> | **Cybersecurity Fundamentals** | Sep 2025 | <a href="https://www.credly.com/badges/e63742ab-a99a-4410-a611-f6cff962ba3e/public_url">View ↗</a> |
-
-</div>
-
----
-
-<div align="center">
-
-### Certification Highlights
-
-| Category | Achievement |
-| :--- | :--- |
-| ☁️ Cloud Computing | AWS Academy Graduate Certifications |
-| 📊 Data Analytics | IBM Data Analysis Using Python |
-| 🗄️ Big Data | IBM Big Data Foundations – Level 1 |
-| 📈 Data Foundations | IBM SkillsBuild Data Fundamentals |
-| 🔐 Cybersecurity | IBM SkillsBuild Cybersecurity Fundamentals |
-| ✅ Verification | All credentials are publicly verifiable through Credly |
-
-</div>
-
----
-
-> **Note:** All credentials listed above are verified digital badges issued through Credly and can be validated online by recruiters and employers. Digital credentials provide secure, tamper-resistant verification of achievements.  [oai_citation:0‡Credly](https://support.credly.com/hc/en-us/articles/360021222071-What-is-a-badge?utm_source=chatgpt.com)
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# Professional Highlights
-
-| Area | Expertise |
-|------|-----------|
-| Software Engineering | ⭐⭐⭐⭐⭐ |
-| Full Stack Development | ⭐⭐⭐⭐⭐ |
-| Backend Development | ⭐⭐⭐⭐⭐ |
-| REST API Design | ⭐⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐⭐⭐ |
-| Authentication & Security | ⭐⭐⭐⭐⭐ |
-| AI Integration | ⭐⭐⭐⭐☆ |
-| Cloud & DevOps | ⭐⭐⭐☆☆ |
-| System Design | ⭐⭐⭐⭐☆ |
-| Problem Solving | ⭐⭐⭐⭐☆ |
-
----
-
-<div align="center">
-
-### **"Engineering reliable software through scalable architecture, secure systems, and continuous learning."**
-
-</div>
-
-<!-- END OF PART 3 -->
-
-<!-- ========================================================= -->
-<!--               GITHUB ANALYTICS • CONNECT • FOOTER         -->
-<!--                          PART 4                           -->
-<!-- ========================================================= -->
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amitshahworks&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amitshahworks&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshahworks&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amitshahworks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitshahworks&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amitshahworks/amitshahworks/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - Advanced Backend Engineering
-  - Distributed Systems
-  - System Design
-  - Cloud Architecture (AWS)
-  - Artificial Intelligence
-  - Large Language Models
-  - DevOps & Docker
-
-building:
-  - Nexora (AI-Powered Admission CRM)
-  - AI Voice Automation Platform
-  - Enterprise SaaS Architecture
-  - Secure Authentication Systems
-  - Production-Ready REST APIs
-
-exploring:
-  - Microservices
-  - Kubernetes
-  - CI/CD Pipelines
-  - Event-Driven Architecture
-  - AI Agents
-  - RAG Applications
-
-open_to:
-  - Software Engineering Internship
-  - Full Stack Development
-  - Backend Engineering
-  - AI Engineering
-  - Product-Based Companies
-  - Open Source Collaboration
-```
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="mailto:shahamitsuresh@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shahamitsuresh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/amitshahstack">
-<img src="https://img.shields.io/badge/LinkedIn-Amit%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/amitshahworks">
-<img src="https://img.shields.io/badge/GitHub-amitshahworks-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://amitshah.dev">
-<img src="https://img.shields.io/badge/Portfolio-amitshah.dev-6D28D9?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-# Let's Build Something Meaningful
-
-<div align="center">
-
-I'm passionate about building secure, scalable software that solves real-world problems. Whether it's enterprise SaaS, AI-powered applications, backend systems, or open source, I'm always excited to collaborate, learn, and contribute.
-
-</div>
-
----
-
-<div align="center">
-
-### *"Great software is built through curiosity, craftsmanship, and continuous improvement."*
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,50:7C3AED,100:9333EA"/>
-
-</div>
-
-<!-- ========================== END ========================== -->
