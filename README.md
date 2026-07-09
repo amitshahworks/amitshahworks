@@ -783,7 +783,7 @@ Under Development
 
 ---
 
-# 📌 Future Project Template
+<!-- # 📌 Future Project Template
 
 Use this structure for adding new projects:
 
@@ -839,6 +839,150 @@ GitHub Link
 
 ### Demo
 
-Live URL
+Live URL -->
+
+---
+
+# 💼 Professional Experience
+
+## Full Stack Development Intern
+
+**CodeAlpha**  
+Remote • Project-Based Internship  
+**2025**
+
+Worked on full-stack web development projects focused on building responsive user interfaces, backend services, authentication workflows, and database-driven applications.
+
+### Responsibilities
+
+- Developed responsive and reusable frontend components.
+- Built RESTful APIs using Node.js and Express.js.
+- Integrated frontend applications with backend services.
+- Implemented authentication workflows.
+- Improved debugging and code organization practices.
+- Followed modular application structure and Git-based development workflow.
+
+### Technologies Used
+
+`JavaScript` `React.js` `Node.js` `Express.js` `REST APIs` `Git`
+
+---
+
+## Data Analytics Intern
+
+**IBM SkillsBuild**  
+Remote • Project-Based Internship  
+**August 2025**
+
+Completed industry-oriented data analytics projects focused on data preparation, visualization, and extracting meaningful insights from datasets.
+
+### Responsibilities
+
+- Worked with real-world datasets for analytical exercises.
+- Performed data cleaning and preprocessing.
+- Applied SQL concepts for data analysis.
+- Created visual representations to communicate insights.
+- Developed data-driven problem-solving skills.
+- Practiced analytical thinking through project-based learning.
+
+### Technologies & Concepts
+
+`SQL` `Data Analytics` `Data Visualization` `Python` `Data Interpretation`
+
+---
+
+# 📜 Professional Certifications
+
+Verified digital credentials from recognized technology organizations.
+
+---
+
+## ☁️ AWS Academy Certifications
+
+| Certification | Issued | Credential |
+|---|---|---|
+| AWS Academy Graduate – Introduction to Cloud Semester 1 | Oct 2024 | [View Credential](https://www.credly.com/badges/68006b8d-edfa-4caa-9902-8c5f14b8709a/public_url) |
+| AWS Academy Graduate – Cloud Foundations | Sep 2025 | [View Credential](https://www.credly.com/badges/1234d415-6b0f-48dd-bdea-63ac97ca1f16/public_url) |
+| AWS Academy Graduate – Cloud Architecting | Apr 2026 | [View Credential](https://www.credly.com/badges/ca9efc8b-e66f-4853-b40f-9dff2eb3954f/public_url) |
+
+---
+
+## 🔵 IBM SkillsBuild Certifications
+
+| Certification | Issued | Credential |
+|---|---|---|
+| Data Analysis Using Python | Jul 2025 | [View Credential](https://www.credly.com/badges/22c606dd-086f-49d7-af7b-6f691519d0a4/public_url) |
+| Data Fundamentals | Jul 2025 | [View Credential](https://www.credly.com/badges/cab75190-4b77-40ae-be53-36c59f72e2e5/public_url) |
+| Big Data Foundations – Level 1 | Jul 2025 | [View Credential](https://www.credly.com/badges/81237be5-ec04-487f-bd6c-35c7b35dbd95/public_url) |
+| Cybersecurity Fundamentals | Sep 2025 | [View Credential](https://www.credly.com/badges/e63742ab-a99a-4410-a611-f6cff962ba3e/public_url) |
+
+---
+
+## 🌐 Google Cloud Skill Badges
+
+| Badge | Credential |
+|---|---|
+| Introduction to Generative AI | [View Badge](https://www.skills.google/public_profiles/fdbea54f-ab53-4993-9a1a-c60cf1f0c819/badges/7877826) |
+| Machine Learning Operations (MLOps) for Generative AI | [View Badge](https://www.skills.google/public_profiles/fdbea54f-ab53-4993-9a1a-c60cf1f0c819/badges/20777805) |
+
+---
+
+# 🏆 Achievements & Learning Milestones
+
+## Technical Growth
+
+- Built full-stack applications using modern JavaScript technologies.
+- Designed a multi-tenant SaaS architecture through NEXORA.
+- Implemented authentication, authorization, and secure API practices.
+- Earned verified cloud and AI learning credentials.
+- Strengthened fundamentals in DSA, OOP, DBMS, and software engineering.
+
+---
+
+## Coding Practice
+
+**LeetCode**
+
+Profile:
+https://leetcode.com/amitshahcodes
+
+Focused areas:
+
+- Data Structures & Algorithms
+- Problem Solving
+- Algorithmic Thinking
+
+
+---
+
+# 🎯 Current Focus
+
+Currently focused on becoming a stronger Full Stack Software Engineer by improving both technical depth and practical engineering skills.
+
+## Building
+
+- NEXORA — Multi-Tenant AI CRM Platform
+- AI Interview Trainer — AI-powered interview preparation platform
+- Personal Developer Portfolio
+
+
+## Learning
+
+- Advanced React patterns
+- Backend architecture
+- Database optimization
+- PostgreSQL performance
+- Prisma ORM
+- API security
+- Cloud deployment
+- System design fundamentals
+
+
+## Long-Term Goals
+
+- Build scalable software products.
+- Contribute to engineering teams solving real-world problems.
+- Improve software architecture and system design skills.
+- Continue learning modern technologies and best practices.
 
 ---
