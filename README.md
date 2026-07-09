@@ -4,7 +4,10 @@
 <!-- ========================================================= -->
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=120&Width=2400&section=HEADER"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=120&section=HEADER"/>
+</br>
+</div>
 <h1 align="center">Amit Shah</h1>
 
 <p align="center">
