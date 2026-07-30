@@ -51,9 +51,13 @@ Enterprise-style multi-tenant CRM platform designed for educational institutions
 `PostgreSQL`
 `Prisma`
 
-**Status**
+**Repository**
 
-🚧 Active Development
+https://github.com/amitshahworks/nexora
+
+**Live Demo**
+
+https://nexora-admission-crm.vercel.app
 
 ---
 
