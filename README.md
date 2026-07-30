@@ -1,73 +1,106 @@
-# Hi, I'm Amit Shah 👋
+<div align="center">
 
-Backend Software Engineer focused on building scalable web applications, secure REST APIs, and production-ready software.
+# Amit Shah
 
-Currently building **NEXORA**, a multi-tenant CRM platform with AI-powered automation.
+### Backend Software Engineer
+
+Building scalable backend systems, secure REST APIs, and production-ready web applications.
+
+[Portfolio](https://amitdev.me) •
+[LinkedIn](https://linkedin.com/in/amitshahstack) •
+[GitHub](https://github.com/amitshahworks) •
+[LeetCode](https://leetcode.com/u/amitshahcodes/) •
+[Email](mailto:shahamitsuresh@gmail.com)
+
+</div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-- 🎓 B.Tech in Computer Science (2023–2027)
-- 💻 Backend-focused Software Engineer
-- 🌱 Currently improving System Design, Docker, and Distributed Systems
-- ⚡ Interested in scalable backend architecture and cloud technologies
+- 🎓 B.Tech Computer Science Engineering (2023–2027)
+- 💻 Backend-focused software engineer with full-stack development experience
+- 🚀 Currently building **NEXORA**, a multi-tenant CRM platform
+- 🌱 Learning **System Design, Distributed Systems, Docker, and Cloud**
+- ⚡ Passionate about building scalable and maintainable software
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
-Java • JavaScript • TypeScript • Python • SQL
+`Java` `JavaScript` `TypeScript` `Python` `SQL`
 
 **Backend**
 
-Node.js • Express.js • REST APIs
+`Node.js` `Express.js` `REST APIs`
 
 **Frontend**
 
-React • HTML • CSS • Tailwind CSS • Vite
+`React` `Vite` `Tailwind CSS` `HTML` `CSS`
 
-**Databases**
+**Database**
 
-PostgreSQL • MongoDB • Prisma • Mongoose
+`PostgreSQL` `MongoDB` `Prisma` `Mongoose`
 
 **Tools**
 
-Git • GitHub • Docker • Postman
+`Git` `GitHub` `Docker` `Postman`
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 NEXORA
-Multi-tenant CRM platform with authentication, RBAC, lead management, workflow automation, and AI-powered communication.
+### NEXORA
 
-**Tech:** React, Node.js, Express, PostgreSQL, Prisma
+AI-powered multi-tenant CRM platform for educational institutions featuring authentication, RBAC, lead management, workflow automation, and scalable backend architecture.
+
+**Tech:** React • Node.js • Express • PostgreSQL • Prisma
 
 ---
 
-### 🤖 AI Interview Trainer
+### AI Interview Trainer
+
 AI-powered interview preparation platform with authentication, profile management, and personalized interview practice.
 
-**Tech:** React, Node.js, Express, MongoDB
+**Tech:** React • Node.js • Express • MongoDB
 
-🔗 Live Demo: https://ai-interview-trainer-pro.vercel.app
-
----
-
-### ⚙️ DispatchIQ
-Distributed task queue system with workers, retries, scheduling, and monitoring dashboard.
-
-**Tech:** Node.js, PostgreSQL, Prisma, Docker
+🔗 https://ai-interview-trainer-pro.vercel.app
 
 ---
 
-## Connect
+### DispatchIQ
 
-Portfolio: https://amitdev.me
+Production-style distributed task queue system supporting workers, retries, scheduling, monitoring, and fault-tolerant job processing.
 
-LinkedIn: https://linkedin.com/in/amitshahstack
+**Tech:** Node.js • PostgreSQL • Prisma • Docker
 
-Email: shahamitsuresh@gmail.com
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=amitshahworks&show_icons=true&hide_border=true&rank_icon=github)
+
+![](https://streak-stats.demolab.com?user=amitshahworks&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Connect
+
+- 🌐 Portfolio — https://amitdev.me
+- 💼 LinkedIn — https://linkedin.com/in/amitshahstack
+- 💻 GitHub — https://github.com/amitshahworks
+- 📧 Email — shahamitsuresh@gmail.com
+
+---
+
+<div align="center">
+
+*"Building software that is secure, scalable, and designed for real-world use."*
+
+</div>
