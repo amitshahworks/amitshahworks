@@ -2,8 +2,6 @@
 
 # Amit Shah
 
-### Backend Software Engineer
-
 Building scalable backend systems, secure REST APIs, and production-ready web applications.
 
 <p>
