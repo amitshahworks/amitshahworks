@@ -4,13 +4,16 @@
 
 ### Backend Software Engineer
 
-Building scalable backend systems, secure APIs, and production-ready software.
+Building scalable backend systems, secure REST APIs, and production-ready web applications.
 
 <p>
-<a href="https://amitdev.me">Portfolio</a> •
-<a href="https://github.com/amitshahworks">GitHub</a> •
-<a href="https://linkedin.com/in/amitshahstack">LinkedIn</a> •
-<a href="mailto:shahamitsuresh@gmail.com">Email</a>
+<a href="https://amitdev.me"><strong>Portfolio</strong></a>
+•
+<a href="https://github.com/amitshahworks"><strong>GitHub</strong></a>
+•
+<a href="https://linkedin.com/in/amitshahstack"><strong>LinkedIn</strong></a>
+•
+<a href="mailto:shahamitsuresh@gmail.com"><strong>Email</strong></a>
 </p>
 
 </div>
@@ -19,88 +22,170 @@ Building scalable backend systems, secure APIs, and production-ready software.
 
 ## About
 
-I'm a Backend Software Engineer focused on building scalable systems with modern web technologies.
+I'm a Backend Software Engineer passionate about building scalable backend systems and production-ready applications.
 
-Currently building **NEXORA**, a multi-tenant CRM platform, while expanding my knowledge in distributed systems, cloud technologies, and software architecture.
+My primary interests include backend engineering, distributed systems, software architecture, cloud technologies, and designing secure APIs that solve real-world problems.
 
----
-
-## Tech Stack
-
-| | |
-|:--|:--|
-| **Languages** | Java • JavaScript • TypeScript • Python • SQL |
-| **Backend** | Node.js • Express.js • REST APIs |
-| **Frontend** | React • Vite • Tailwind CSS |
-| **Database** | PostgreSQL • MongoDB • Prisma |
-| **Tools** | Docker • Git • GitHub • Postman • AWS |
-
----
-
-## Featured Projects
-
-### 🚀 NEXORA
-
-Enterprise-style multi-tenant CRM platform with RBAC, lead management, workflow automation, secure REST APIs, and AI-ready architecture.
-
-**Stack**
-
-`React` `Node.js` `Express` `PostgreSQL` `Prisma`
-
----
-
-### ⚙️ DispatchIQ
-
-Distributed task queue system supporting workers, retries, scheduling, monitoring, and fault-tolerant background processing.
-
-**Stack**
-
-`Node.js` `PostgreSQL` `Prisma` `Docker`
-
----
-
-### 🤖 AI Interview Trainer
-
-AI-powered interview preparation platform with secure authentication, profile management, and personalized interview practice.
-
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-**Live**
-
-https://ai-interview-trainer-pro.vercel.app
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amitshahworks&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshahworks&layout=compact&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=amitshahworks&hide_border=true"/>
-
-</div>
+Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** while continuously improving through hands-on projects.
 
 ---
 
 ## Current Focus
 
-- Backend Engineering
-- Distributed Systems
+- 🚀 Building **NEXORA** — Multi-tenant AI CRM Platform
+- ⚙️ Developing **DispatchIQ** — Distributed Task Queue System
+- 📚 Learning System Design & Distributed Systems
+- ☁️ Exploring Docker, Cloud, and scalable architectures
+
+---
+
+# Featured Projects
+
+## 🚀 NEXORA
+
+Enterprise-style multi-tenant CRM platform designed for educational institutions with secure authentication, RBAC, lead management, workflow automation, notifications, and AI-ready architecture.
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`PostgreSQL`
+`Prisma`
+
+**Status**
+
+🚧 Active Development
+
+---
+
+## ⚙️ DispatchIQ
+
+Production-oriented distributed task queue system supporting workers, retries, scheduling, monitoring, fault recovery, and reliable background job execution.
+
+**Tech Stack**
+
+`Node.js`
+`PostgreSQL`
+`Prisma`
+`Docker`
+
+**Status**
+
+🚧 Active Development
+
+---
+
+## 🤖 AI Interview Trainer
+
+AI-powered interview preparation platform with secure authentication, profile management, personalized interview practice, and responsive user experience.
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+
+**Repository**
+
+https://github.com/amitshahworks/AI-Interview-Trainer
+
+**Live Demo**
+
+https://ai-interview-trainer-pro.vercel.app
+
+---
+
+# Tech Stack
+
+### Languages
+
+`Java`
+`JavaScript`
+`TypeScript`
+`Python`
+`SQL`
+
+### Backend
+
+`Node.js`
+`Express.js`
+`REST APIs`
+
+### Frontend
+
+`React`
+`Vite`
+`Tailwind CSS`
+`HTML5`
+`CSS3`
+
+### Database
+
+`PostgreSQL`
+`MongoDB`
+`Prisma`
+`Mongoose`
+
+### Authentication & Security
+
+`JWT`
+`Refresh Tokens`
+`RBAC`
+`bcrypt`
+`Zod`
+
+### Tools
+
+`Git`
+`GitHub`
+`Docker`
+`Postman`
+`AWS`
+
+---
+
+# Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+
+---
+
+# Currently Learning
+
 - System Design
-- Cloud Technologies
-- Building production-ready software
+- Distributed Systems
+- Cloud Architecture
+- Docker
+- Backend Testing
+- Software Quality
+
+---
+
+# Open Source
+
+I'm interested in contributing to open-source software and continuously improving my engineering skills by building production-oriented applications and exploring modern backend technologies.
+
+---
+
+# Connect
+
+- 🌐 Portfolio — https://amitdev.me
+- 💼 LinkedIn — https://linkedin.com/in/amitshahstack
+- 💻 GitHub — https://github.com/amitshahworks
+- 🧩 LeetCode — https://leetcode.com/u/amitshahcodes/
+- 📧 Email — shahamitsuresh@gmail.com
 
 ---
 
 <div align="center">
 
-**Portfolio:** https://amitdev.me
+### Building secure, scalable, and maintainable software.
 
 </div>
