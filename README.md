@@ -1,106 +1,157 @@
 <div align="center">
 
-# Amit Shah
+# Hi 👋 I'm Amit Shah
 
 ### Backend Software Engineer
 
-Building scalable backend systems, secure REST APIs, and production-ready web applications.
+Building scalable backend systems, secure APIs, and modern web applications.
 
-[Portfolio](https://amitdev.me) •
-[LinkedIn](https://linkedin.com/in/amitshahstack) •
-[GitHub](https://github.com/amitshahworks) •
-[LeetCode](https://leetcode.com/u/amitshahcodes/) •
-[Email](mailto:shahamitsuresh@gmail.com)
-
-</div>
-
----
-
-## 👋 About Me
-
-- 🎓 B.Tech Computer Science Engineering (2023–2027)
-- 💻 Backend-focused software engineer with full-stack development experience
-- 🚀 Currently building **NEXORA**, a multi-tenant CRM platform
-- 🌱 Learning **System Design, Distributed Systems, Docker, and Cloud**
-- ⚡ Passionate about building scalable and maintainable software
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-`Java` `JavaScript` `TypeScript` `Python` `SQL`
-
-**Backend**
-
-`Node.js` `Express.js` `REST APIs`
-
-**Frontend**
-
-`React` `Vite` `Tailwind CSS` `HTML` `CSS`
-
-**Database**
-
-`PostgreSQL` `MongoDB` `Prisma` `Mongoose`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `Postman`
-
----
-
-## 🚀 Featured Projects
-
-### NEXORA
-
-AI-powered multi-tenant CRM platform for educational institutions featuring authentication, RBAC, lead management, workflow automation, and scalable backend architecture.
-
-**Tech:** React • Node.js • Express • PostgreSQL • Prisma
-
----
-
-### AI Interview Trainer
-
-AI-powered interview preparation platform with authentication, profile management, and personalized interview practice.
-
-**Tech:** React • Node.js • Express • MongoDB
-
-🔗 https://ai-interview-trainer-pro.vercel.app
-
----
-
-### DispatchIQ
-
-Production-style distributed task queue system supporting workers, retries, scheduling, monitoring, and fault-tolerant job processing.
-
-**Tech:** Node.js • PostgreSQL • Prisma • Docker
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=amitshahworks&show_icons=true&hide_border=true&rank_icon=github)
-
-![](https://streak-stats.demolab.com?user=amitshahworks&hide_border=true)
+<p>
+<a href="https://amitdev.me">Portfolio</a> •
+<a href="https://linkedin.com/in/amitshahstack">LinkedIn</a> •
+<a href="https://github.com/amitshahworks">GitHub</a> •
+<a href="mailto:shahamitsuresh@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## 📫 Connect
+## 🚀 Currently Building
 
-- 🌐 Portfolio — https://amitdev.me
-- 💼 LinkedIn — https://linkedin.com/in/amitshahstack
-- 💻 GitHub — https://github.com/amitshahworks
-- 📧 Email — shahamitsuresh@gmail.com
+- 🏢 **NEXORA** — Multi-tenant AI CRM Platform
+- ⚙️ **DispatchIQ** — Distributed Task Queue System
+- 🤖 AI-powered developer tools & backend services
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,nodejs,express,react,vite,tailwind,postgres,mongodb,prisma,docker,git,github,postman,aws,vscode" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚀 NEXORA
+
+AI-powered multi-tenant CRM platform featuring RBAC, workflow automation, lead management, and secure REST APIs.
+
+**Stack**
+
+React • Node.js • PostgreSQL • Prisma
+
+</td>
+
+<td width="50%">
+
+### ⚙️ DispatchIQ
+
+Distributed task queue with workers, retries, scheduling, monitoring, and fault-tolerant processing.
+
+**Stack**
+
+Node.js • PostgreSQL • Docker
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Interview Trainer
+
+AI-powered interview practice platform with authentication, profile management, and mock interviews.
+
+**Stack**
+
+React • Express • MongoDB
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio
+
+Minimal developer portfolio focused on engineering work, projects, certifications, and technical journey.
+
+**Live**
+
+https://amitdev.me
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amitshahworks&show_icons=true&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshahworks&layout=compact&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=amitshahworks&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Backend Engineering
+- Distributed Systems
+- System Design
+- Cloud Technologies
+- Production-ready Software
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://amitdev.me">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/amitshahstack">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shahamitsuresh@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/amitshahcodes/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Building software that is secure, scalable, and designed for real-world use."*
+### ⭐ Building software that is secure, scalable, and built for real-world use.
 
 </div>
