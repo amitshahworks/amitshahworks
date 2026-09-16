@@ -30,16 +30,16 @@ Currently pursuing **B.Tech in Computer Science & Engineering (2023–2027)** wh
 
 ## Current Focus
 
-- 🚀 Building **NEXORA** — Multi-tenant AI CRM Platform
-- ⚙️ Developing **DispatchIQ** — Distributed Task Queue System
-- 📚 Learning System Design & Distributed Systems
-- ☁️ Exploring Docker, Cloud, and scalable architectures
+- Building **NEXORA** — Multi-tenant AI CRM Platform
+- Developing **DispatchIQ** — Distributed Task Queue System
+- Learning System Design & Distributed Systems
+- Exploring Docker, Cloud, and scalable architectures
 
 ---
 
 # Featured Projects
 
-## 🚀 NEXORA
+## NEXORA
 
 Enterprise-style multi-tenant CRM platform designed for educational institutions with secure authentication, RBAC, lead management, workflow automation, notifications, and AI-ready architecture.
 
@@ -61,7 +61,7 @@ https://nexora-admission-crm.vercel.app
 
 ---
 
-## ⚙️ DispatchIQ
+## DispatchIQ
 
 Production-oriented distributed task queue system supporting workers, retries, scheduling, monitoring, fault recovery, and reliable background job execution.
 
@@ -74,11 +74,11 @@ Production-oriented distributed task queue system supporting workers, retries, s
 
 **Status**
 
-🚧 Active Development
+Active Development
 
 ---
 
-## 🤖 AI Interview Trainer
+## AI Interview Trainer
 
 AI-powered interview preparation platform with secure authentication, profile management, personalized interview practice, and responsive user experience.
 
@@ -178,11 +178,11 @@ I'm interested in contributing to open-source software and continuously improvin
 
 # Connect
 
-- 🌐 Portfolio — https://amitdev.me
-- 💼 LinkedIn — https://linkedin.com/in/amitshahstack
-- 💻 GitHub — https://github.com/amitshahworks
-- 🧩 LeetCode — https://leetcode.com/u/amitshahcodes/
-- 📧 Email — shahamitsuresh@gmail.com
+- Portfolio — https://amitdev.me
+- LinkedIn — https://linkedin.com/in/amitshahstack
+- GitHub — https://github.com/amitshahworks
+- LeetCode — https://leetcode.com/u/amitshahcodes/
+- Email — shahamitsuresh@gmail.com
 
 ---
 
